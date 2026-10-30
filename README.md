@@ -1,5 +1,9 @@
 # waha-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/waha-or-just-updated-self-hosted-whatsap?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [WAHA template](https://railway.com/deploy/waha-or-just-updated-self-hosted-whatsap?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned wrapper image for [WAHA](https://waha.devlike.pro/) (WhatsApp HTTP API),
 published as `ghcr.io/bon5co/waha-railway`.
 
